@@ -13,5 +13,5 @@
 ## 版权
 代码及文档内容采用自 [优达学城经典街机游戏克隆](https://github.com/udacity/cn-frontend-development-advanced/raw/master/Arcade%20Game%20Clone_zh.zip)
 
-##相关阅读
+## 相关阅读
 如果你对此项目感兴趣，希望了解更多相关信息，可以访问[优达学城论坛](https://discussions.youdaxue.com/c/nd001-classic-arcade-game-clone)阅读。
