@@ -49,7 +49,7 @@ Player.prototype.update = function(){
 	if (player.y < 58) {
 		count++;
 		if (count%4 ===2){
-	    alert("Congratulation! You win!");
+	    alert("Congratulations, You won!");
 		player.x = 204;
 		player.y = 390;
 		count = 0;
